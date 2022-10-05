@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejonithin
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Google Data Analytics on Coursera
+- 🌱 I’m currently learning Google Data Analytics from Coursera
 - 📫 Reach me at linktr.ee/tejonithin
 
 <!---
