@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tejonithin
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Google Data Analytics on Coursera
-- 📫 Reach me at instagram.com/tejonithin
+- 📫 Reach me at linktr.ee/tejonithin
 
 <!---
 tejonithin/tejonithin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
